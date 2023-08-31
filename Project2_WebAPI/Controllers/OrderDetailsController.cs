@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Project2_WebAPI.Model;
+using System.Text.Json.Serialization;
+using System.Text.Json;
 
 namespace Project2_WebAPI.Controllers
 {
